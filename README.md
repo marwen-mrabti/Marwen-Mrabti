@@ -11,7 +11,7 @@
 
 </center>
 
-###### Mechatronics engineer specializing in industrial automation, full-stack web developer [I build websites using MERN stack] and I'm a big robotic enthusiast (I've designed, built and programmed more than 20 robots in the last 4 years) and I've been building all kind of stuff since childhood(fun fact I always have a screw-drive with me 😅)
+###### full-stack web developer [I work within the Node environment] / Mechatronics engineer specializing in industrial automation, and I'm a big robotic enthusiast (I've designed, built and programmed more than 20 robots) and I've been building all kind of stuff since childhood
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
