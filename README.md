@@ -27,7 +27,6 @@ You can use the website to generate badges: https://shields.io/
 - 👯 open source contributor
 - 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS**
 - 📫 How to reach me: marwen.mrabti.me@gmail.com
-- ⚡ Fun fact: I spend almost 6-10 hours coding and learning how to master my craft.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> 🛠️ Languages and Tools:
 
